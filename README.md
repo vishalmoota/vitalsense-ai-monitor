@@ -203,12 +203,3 @@ Navigate to `http://localhost:5173`, click **Start Monitoring**, and allow camer
 
 ---
 
-## 👥 Team VisionX4
-
-Built with ❤️ at **HackVerse 2.0** — WIET Hackathon 2026
-
----
-
-## 📄 License
-
-This project was created for the HackVerse 2.0 hackathon. All rights reserved.
