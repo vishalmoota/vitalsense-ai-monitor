@@ -203,3 +203,16 @@ Navigate to `http://localhost:5173`, click **Start Monitoring**, and allow camer
 
 ---
 
+## 👨‍💻 Author
+
+Vishal Moota
+
+---
+
+## 📄 License
+
+© 2026 Vishal Moota. All rights reserved.
+
+This project and its source code are the intellectual property of the author. Unauthorized copying, modification, distribution, or use is strictly prohibited without prior permission.
+
+---
